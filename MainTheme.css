@@ -553,5 +553,21 @@ a:hover {
 <!-- EOF -->
 <!-- End Of Customary Cursors -->
 
+<!-- Start Of NeoFetch Image -->
+<!-- SOF -->
+
+<div class="image-container">
+  <img src="https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/neofetch.png" alt="Windows 11 - NeoFetch"/>
+</div>
+
+<style>
+.image-container {
+    padding-top: 20px; /* Adjust the value for desired space */
+}  
+</style>
+
+<!-- EOF -->
+<!-- End Of NeoFetch Image -->
+
 <!-- EOF -->
 <!-- End Of Main Profile -->
