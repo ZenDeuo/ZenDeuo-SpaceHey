@@ -8,6 +8,7 @@
 - idioteque = https://spacehey.com/coedcaine
 - Valentine = https://spacehey.com/fluorescent_lights
 - 🌈☆ ˚˖ (๑òᆺó๑) ˖ ˚ ☆🌸 = https://spacehey.com/teensy
+- Katie (autoplay!) = https://spacehey.com/profile?id=65193
 
 ### Main Theme:
 
