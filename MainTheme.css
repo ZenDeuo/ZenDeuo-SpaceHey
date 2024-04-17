@@ -1,6 +1,83 @@
 <!-- Main Profile -->
 <!-- SOF -->
 
+<!-- Start Of Start-Up Layout For Windows XP -->
+<!-- SOF -->
+
+<!-- (c) Layout created by Katie (autoplay!) (https://layouts.spacehey.com/layout?id=90753) -->
+
+<div id="profile">
+<ul>
+
+<center>
+<h1> Hello Random User!</h1> 
+<br/>
+<p>This Profile Will Contain:<br/>
+</p><ul>
+<li>Shenzhen HTML, CSS & JS Components. Ples Be Careful 💖</li>
+</ul>
+<br/>
+
+<h1>Do Not Interact</h1>
+<ul>
+<li>With People That Use Real Components. Plz Order From AliExpress Or eBay, Very Trusted Services 🫡</li>
+</ul>
+<br/>
+<br/>
+<br/>Click De Button To Get To My Profile<br/>
+<br/>
+<br/>
+<a href="#profile">Enter Button Yes</a>
+<br/>
+<br/>
+<a href="https://yahoo.com/">Exit? No, Stay. Press Enter Button. Yes?... I Mean This Button Takes You To Yahoo So Cmon The Yes Button Can't Be That Bad!</a>
+
+<style> 
+
+#profile{
+ position: fixed;
+ background-image: url('https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/bliss.png');
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: cover;
+ background-color: #ece9d8;
+ color: black;
+ z-index: 100;
+ top: 0; 
+ left: 0;
+ width: 100vw;
+ height: 100vh;
+ padding: 50px 100px;
+ font-size: 150%;
+ overflow-y: scroll;
+ opacity: 1;
+ transition: .2s;
+}
+
+#profile > * {
+ width: 100%;
+ max-width: 700px!important;
+ margin: 20px auto;
+ display: block;
+}
+
+#profile:target {
+ opacity: 0;
+ visibility: hidden;
+}
+
+#profile > ul {
+ padding: 10px 50px;
+ border: 4px ridge #0353e6;
+ background-color: #ece9d8;
+}
+
+</style>
+</center></ul></div>
+
+<!-- EOF -->
+<!-- End Of Start-Up Layout For Windows XP -->
+
 <!-- Start Of SpaceHey Windows XP & Windows XP Pro: Gamer Version Theme Edited Themes -->
 <!-- SOF -->
 
