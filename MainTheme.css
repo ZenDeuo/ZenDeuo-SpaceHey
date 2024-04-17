@@ -6,7 +6,7 @@
 
 <!-- (c) Layout created by Cory (https://layouts.spacehey.com/layout?id=1169) -->
 
-<style>@import url('PUT-GITHUB-URL-HERE==XP.css');.hideobj{ visibility: hidden; height: 20px; width: 0%; }</style><iframe src="https://www.youtube.com/embed/7nQ2oiVqKHw?&amp;;autoplay=1" frameborder="0" class="hideobj"></iframe>
+<style>@import url('https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/XP.css');.hideobj{ visibility: hidden; height: 20px; width: 0%; }</style><iframe src="https://www.youtube.com/embed/7nQ2oiVqKHw?&amp;;autoplay=1" frameborder="0" class="hideobj"></iframe>
 
 <!-- EOF -->
 <!-- End Of SpaceHey Edited Windows XP & Windows XP: Pro Gamer Theme -->
@@ -23,7 +23,7 @@
   margin-top: 30px;
 }
 .online {
-    content: url(PUT-GITHUB-URL-HERE==catonline.gif);
+    content: url(https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/catonline.gif);
 }
 </style>
 
@@ -48,7 +48,7 @@
 
         /* welcome image / background ?
         i love using a png for this */
-        --welcome-image: url("PUT-GITHUB-URL-HERE==HUG.GIF");
+        --welcome-image: url("https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/hug.gif");
 
         /* custom tab titles ! */
         --tab-1-title: "About Me";
@@ -65,10 +65,10 @@
 
         /* thumbnails ! make sure you put your image
         link INSIDE the quotation marks.... please */
-        --tab-1-thumbnail: url("PUT-GITHUB-URL-HERE==AboutMe.gif");
-        --tab-2-thumbnail: url("PUT-GITHUB-URL-HERE==Heart.gif");
-        --tab-3-thumbnail: url("PUT-GITHUB-URL-HERE==Brain.gif");
-        --tab-4-thumbnail: url("PUT-GITHUB-URL-HERE==GitIgnore.jpg");
+        --tab-1-thumbnail: url("https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/AboutMe.gif");
+        --tab-2-thumbnail: url("https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/Heart.gif");
+        --tab-3-thumbnail: url("https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/Brain.gif");
+        --tab-4-thumbnail: url("https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/GitIgnore.jpg");
     }
 	/* wall of code itself down below... if you know what you're doing and wanna change advanced stuff, make it readable at unminify.com */
 .dantendo,.dantendo img{max-width:100%}.dantendo .arrows,.dantendo .buttons{filter:drop-shadow(0px 1px 1px rgba(0,0,0,.5))}.dantendo .arrows a,.dantendo .buttons a{vertical-align:top;position:relative;display:inline-block}.dantendo *,.dantendo ::after,.dantendo ::before{box-sizing:border-box}.dantendo ::selection{background:0 0}.dantendo ::-webkit-scrollbar-thumb{background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB0AAAAWCAYAAAA8VJfMAAAA5ElEQVRIDc2VIRKDMBBFOSaysrISmSNEIjkCshJZGRnJEZC47fyd+ZkvKjdQ8VkmzLyXBZIMKSW7OsM4ZZvX7bLA59LlvRmzfort+x4W8MhGdekjzYYHzHEcFh2yUeEbcNGZRAvBU36T6jc9z9Oio/wmnZbVmGgheGSj3it95sWYHp2Sjeqd4hfWwd7Stk5vkaJlpkenZKO2TsdXNqbHOiXbK7dBHbxFGrnvkqVN/Xy9tVaLzh9Jp+x/FVovpYQHXI2fpzpwmVTXUfT3BE/5aNA71R0Jx1CkGDzluxSz0KOn9z18X6jbQZNFS4ScAAAAAElFTkSuQmCC) center/contain no-repeat}.dantendo ::-webkit-scrollbar-track{margin-inline:2px}.dantendo ::-webkit-scrollbar{height:12px;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAWCAYAAAAinad/AAAA5UlEQVQ4Ea3VMRKDIBAFUI5pmZIyJSVHoLT0CJYpLS1TehS6zfyd7IYgigMWPwQhLx8zY4z3nu6KsdYSMs5Ldxhz08zQ9FqoNShjUmhe39QSFFAMEyCtrXaYXGi9dzihHhMILrTGhumHXUVwO2KMuy9lDC+AMJ5FEEBIvvfhRzI1LEeasCPkFEM9tMOI1BDBZH86msEFxoZnII0LjK7bRkfRvd/PAWUMb/JFnp+g+f46Jm0L6CGGo+aLxXmC5uva7DImTQsjY/glGUO7jih2B/iHYdIbftICQbve6H/A1adGaZ+U+ACW94bTEjITDAAAAABJRU5ErkJggg==) left/contain no-repeat,url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAWCAYAAAAinad/AAAA5klEQVQ4Ea2VMRKDIBBFOaZlSsqUlhzB0tIjUKa0tEzpUew283fyGciI2UCK7wKyj787DroQgvxLbo6r9Mp7L5DClscqrYKRcYklLG5PaRFMENjtDAYAhDuHR0/P2B6F+WlRKiYtopEq7DgO7Z8Vnnp2C7PAXS7AKPQkf3c2xqFYd99gFujPsCtoAYO7XEy8iiifOSgRYy1zuE+Sa9t3qQmQYSz3A4Y1M+wMQgNwZYJdQcwwC4QwLbtWZtr00cvqOnqYYO8JT2iJ6aNtSc5zAEowfi+tMcE46Ikwodc2IdYb4mwf/wEvJ+SG0y51IyIAAAAASUVORK5CYII=) right/contain no-repeat,url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAWCAYAAAD5Jg1dAAAAVElEQVQ4EcWSMQ1AQQjFkI4URmQggREJuHg/OOhy+UO3pgHuzN1FsIgQwbpbBNtdEbg4MyIYkc6xqhKBb01q5zwoZqYI/K1J7Zw/i+TTnvNgRnqeD13sstPObrArAAAAAElFTkSuQmCC) center/contain repeat-x}.dantendo ::-webkit-scrollbar:vertical{width:2px!important;background:0 0!important}.dantendo ::-webkit-scrollbar-thumb:vertical{background:rgba(0,0,0,.3)!important}.dantendo .lower-screen::before{content:"";display:block;position:absolute;bottom:6%;width:30%;right:0;left:0;margin-inline:auto;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACIAAAAGCAYAAACmekziAAAACXBIWXMAAFxGAABcRgEUlENBAAAAcUlEQVQokeWOIRKDQBAE+ygess9CIu8JyJGRyJVInnNyZeQ9AQeSSiUQcyJVGbXTO6LhR5IW931ZVwDGYWDMOX0a6qH9pU9KLVk3u2NmmBmz+6VxPOPtbsn6Ugp12wCocT6/ybRmnSRqBDUCSbcif5EDSLhUUXnGw2QAAAAASUVORK5CYII=) left/30% no-repeat,url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAACCAYAAADPV1tRAAAACXBIWXMAAFxGAABcRgEUlENBAAAAJElEQVQokWNs6Gj4z8DAwNBQ0cDIAAWUiFGqf6iZycQwCigCAFqyPosK481tAAAAAElFTkSuQmCC) 10px center/90% no-repeat;height:10px;z-index:9999;pointer-events:none}.dantendo{display:flex;flex-direction:column;gap:2%;width:250px;aspect-ratio:1/1;position:relative;font-family:'MS Pgothic';font-size:80%;color:#000;text-align:center;margin:5px auto;border-radius:4%;filter:drop-shadow(0px 0px 2px rgba(0,0,0,.3));transition:4s linear;transform-style:preserve-3d}.dantendo,.dantendo *{cursor:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAzUlEQVRYw+3WzQ2DMAxA4YfVPWATh0lgE8Sm2SQ9tEEp4q9SaksVvhFyePogAnhNwmkESNM0uUUIQNd1eEqkt0JS1WQdIUCTFQoJ20dQBqiq6aPIAU3f9y4KUl54KJQBLgqyXrBWWAeYK8jWoqXCVoCpguzdsFLYCzBTkKObFgpHAVsK1T9WcrYhB7Rti6oyDENVjbOAD4UYo+07UCqEEACIMVZVuBLwUwW5urFUAKqdjKsBi8I4jlUFHt9szsdxnuclzOUHlnvuueef5gl21kMYB7ojtQAAAABJRU5ErkJggg==),auto!important}.dantendo .screen-division{background:var(--overall-color) linear-gradient(rgba(255,255,255,.3) 10%,transparent 90%);height:50%;border-radius:3%/6%;border:1px solid #000;box-shadow:0 0 0 3px color-mix(in lch,var(--overall-color) 80%,#fff) inset,0 3px 8px 2px color-mix(in lch,var(--overall-color) 60%,#000) inset;overflow:hidden}.dantendo .screen-divider,.dantendo .screen-divider::after,.dantendo .screen-divider::before{background:var(--overall-color) linear-gradient(rgba(255,255,255,.5) 10%,transparent 50%);box-shadow:0 -5px 5px -2px color-mix(in lch,var(--overall-color) 60%,#000) inset;position:absolute}.dantendo .screen-divider{top:48%;right:0;left:0;margin-inline:auto;width:95%;height:5%;border-block:1px solid black}.dantendo .screen-divider::after,.dantendo .screen-divider::before{content:"";display:block;top:-20%;height:135%;width:14%;border:1px solid #000;border-radius:15%/30%}.dantendo .screen-divider::before{left:-3%;background-image:linear-gradient(gray,#000),linear-gradient(gray,#000),linear-gradient(gray,#000);background-position:30% 30%,center 30%,70% 30%;background-repeat:no-repeat;background-size:8% 60%}.dantendo .screen-divider::after{right:-3%}.dantendo .screen{background:linear-gradient(0deg,#fff 0,#fff 30%,#d7d7d7 30%,#d7d7d7 70%,#fff 70%);background-size:100% 3px;border:1px solid #000;outline:rgba(0,0,0,.4) solid 1px;outline-offset:4px;box-shadow:0 0 0 5px color-mix(in lch,var(--overall-color) 90%,gray);border-radius:3%/6%;margin-top:calc(3% + 8px);margin-inline:auto;height:calc(85% - 9px);width:45%;position:relative}.dantendo-tab{transition:.6s 0.2s}.dantendo .upper-screen .screen{overflow-x:hidden;overflow-y:auto}.dantendo .lower-screen .screen{white-space:nowrap;overflow-x:auto;overflow-y:hidden;padding-right:10%}.dantendo .upper-screen::after,.dantendo .upper-screen::before{content:"";display:block;position:absolute;top:36%;height:1.8%;width:5%;border-radius:40%/80%;background:#000;filter:drop-shadow( -1px -1px 1px color-mix(in lch, var(--overall-color) 70%, white))}.dantendo .upper-screen::before{left:12%}.dantendo .upper-screen::after{right:12%}.dantendo-bar{margin:1px;height:10px;padding-inline:11px;text-align:justify;font-size:8px;background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAALCAYAAAByF90EAAAACXBIWXMAAFxGAABcRgEUlENBAAAAqUlEQVQoka1SsQ3EMAg8vzKMy4zACCkZgTEyBiO4zAiM4NLbkMoRkT9KlP+rEAd3gA1cwMxcRPyKfwQzcyJyIhqEVNXN7N4giqiqx3yPiWgQmzrRE+u6AgCYGbXWo7CUAlV1EUnMjFIKBqGcM+Z5PhG1VrTW4kqpG4pIiubbtvkEAK21U9MbfJ4Wiogzc5/Oc84HtyxLGhriseP4d8f+ir88fxT7+UO+wQ63LnK4FP6+3AAAAABJRU5ErkJggg==) left 2px/11px no-repeat,url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAACXBIWXMAAFxGAABcRgEUlENBAAAAxUlEQVQokaWSrRbCMAyF7zgTeQQkshKJjJxE9jEmkUjkHqNysrISiZyc5BHihli7LfvhsMN1SXO/Jm0yRNV13VVVhb0qyxJZCpi5c87thlhrkU8TRAS6XX4GyOMJAMiZuRuSIqDzaSgqnCiTt6Qh0p8f5p0k8xywBk31ahwRAb1aeBNNzfEryF1lCSEiwDcoTrwwJ/k2jJfGTtQ4aUbfBlW8BpjW5yGEDOi/mIiAwowmvDXFGBVuvonclx1sKnYyLNs/G/sBGlhPnDO6iAoAAAAASUVORK5CYII=) right 1px/11px no-repeat;width:fit-content;white-space:nowrap}.dantendo-bar span{color:#4682b4;font-size:10px;vertical-align:-1px;margin-right:3px}.welcome-image{transition:.4s;content:var(--welcome-image);height:calc(100% - 15px);width:100%;object-fit:cover;object-position:bottom;opacity:1;position:absolute;right:0}.dantendo-tab{width:85%;aspect-ratio:1/0.78;margin:2% auto;right:0;left:0;background:color-mix(in lch,var(--overall-color) 50%,#fff);border:2px solid #fff;font-size:10px;padding:2px;color:color-mix(in lch,var(--overall-color) 50%,#000)!important;overflow-y:auto;word-break:break-word;position:absolute;box-shadow:0 0 4px -1px rgba(0,0,0,.5)}.power-button,.select-btn,.start-btn{position:absolute;font-family:arial;font-size:7px;color:#000;user-select:none;text-shadow:0 0 0 #000;white-space: nowrap;}.dantendo .tab-content,.dantendo .tab-title{margin:0!important;font-size:11px;white-space:pre-wrap}.dantendo .tab-content{text-align:left}.dantendo .tab-title{text-transform:uppercase}#tab-1 .tab-title::after{content:var(--tab-1-title)}#tab-2 .tab-title::after{content:var(--tab-2-title)}#tab-3 .tab-title::after{content:var(--tab-3-title)}#tab-4 .tab-title::after{content:var(--tab-4-title)}#tab-1 .tab-content::after{content:var(--tab-1-content)}#tab-2 .tab-content::after{content:var(--tab-2-content)}#tab-3 .tab-content::after{content:var(--tab-3-content)}#tab-4 .tab-content::after{content:var(--tab-4-content)}#tab-1-button img{content:var(--tab-1-thumbnail)}#tab-2-button img{content:var(--tab-2-thumbnail)}#tab-3-button img{content:var(--tab-3-thumbnail)}#tab-4-button img{content:var(--tab-4-thumbnail)}.dantendo .screen .thumbnail{background:silver;border:1px solid gray;outline:white solid 5px;box-shadow:0 0 0 6px gray,0 6px 0 4px gray;border-radius:3px;height:40px;width:40px;display:inline-block;margin-top:20%;margin-left:30%;vertical-align:middle}.dantendo .screen .thumbnail img{min-width:100%;max-height:100%;min-height:100%;object-fit:cover}:is(
@@ -88,7 +88,7 @@
 <style>
 /* replace with cd image that has transparent background. must be 150px by 150px. */
 :root {
---cd-image: url('PUT-GITHUB-URL-HERE==TransparentCD.png');
+--cd-image: url('https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/TransparentCD.png');
 }
 .profile-pic {
 position: relative;
@@ -97,7 +97,7 @@ filter: drop-shadow(0 0 0.25rem gray);
 }
 .profile-pic:after {
 content: "";
-background: url('PUT-GITHUB-URL-HERE==TransparentCDCase.png'), linear-gradient(150deg, rgba(255,255,255,0.4), rgba(255,255,255,0.2), 40%, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.6));
+background: url('https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/TransparentCDCase.png'), linear-gradient(150deg, rgba(255,255,255,0.4), rgba(255,255,255,0.2), 40%, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.6));
 background-size: contain, cover;
 position: absolute;
 top: 0;
@@ -154,7 +154,7 @@ max-width: inherit;
 
 <style>html:before {
   animation: grain 8s steps(10) infinite;
-  background-image: url(PUT-GITHUB-URL-HERE==Stars.gif);
+  background-image: url(https://raw.githubusercontent.com/ZenDeuo/ZenDeuo-SpaceHey/main/Stars.gif);
   content: "";
   height: 300%;
   left: -50%;
